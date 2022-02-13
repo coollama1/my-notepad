@@ -20,20 +20,22 @@ Below are several backend api request test results conducted on postman
 ![](images/note-all-request-testing.png)
 
 <br>
-This displays the results of sending a GET request at {baseurl}/note/all. This retrieves a a json file filled with all of the note entities stored in the database
+This image displays the results of sending a GET request at {baseurl}/note/all. This retrieves a a json file filled with all of the note entities stored in the database
 <br>
 <br>
 ![](images/event-find-by-user-request-testing.png)
 
 <br>
-This displays the results of sending a GET request at {baseurl}/event/find-by-user/{userId}. The response contains all the events with the particular userId
+This image displays the results of sending a GET request at {baseurl}/event/find-by-user/{userId}. The response contains all the events with the particular userId
 <br>
 <br>
 
 ![](images/user-all-request-testing-1.png)
+
 <br>
+
 ![](images/user-all-request-testing-2.png)
 
 <br>
-This displays the results of sending a GET request at {baseurl}/user/all. The response contains all the users stored in the database along with their lists of notes, events, and to-do lists
+This image displays the results of sending a GET request at {baseurl}/user/all. The response contains all the users stored in the database along with their lists of notes, events, and to-do lists
 <br>

@@ -14,7 +14,6 @@ Users may enter information to add to the new note in the text fields at the top
 
 ## Backend API Request Testing
 
-<br>
 Below are several backend api request test results conducted on postman
 <br>
 

@@ -20,9 +20,12 @@ Below are several backend api request test results conducted on postman
 ![](images/note-all-request-testing.png)
 
 <br>
+
 This image displays the results of sending a GET request at {baseurl}/note/all. This retrieves a a json file filled with all of the note entities stored in the database
+
 <br>
 <br>
+
 ![](images/event-find-by-user-request-testing.png)
 
 <br>

@@ -41,11 +41,4 @@ public class WebConfig extends WebSecurityConfigurerAdapter {
         return source; 
     }
 
-    /*
-     * @Override public void addCorsMappings(CorsRegistry registry) {
-     * registry.addMapping("/**"); registry.addMapping("note/**")
-     * .allowedOrigins("localhost:4200") .allowedMethods("GET","PUT", "DELETE",
-     * "POST") .allowedHeaders("Access-Control-Allow-Origin")
-     * .allowCredentials(false).maxAge(3600); }
-     */
 }

@@ -23,11 +23,12 @@ Below are several backend api request test results conducted on postman
 <br>
 This displays the results of sending a GET request at {baseurl}/note/all. This retrieves a a json file filled with all of the note entities stored in the database
 <br>
-
+<br>
 ![](images/event-find-by-user-request-testing.png)
 
 <br>
 This displays the results of sending a GET request at {baseurl}/event/find-by-user/{userId}. The response contains all the events with the particular userId
+<br>
 <br>
 
 ![](images/user-all-request-testing-1.png)

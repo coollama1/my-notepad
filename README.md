@@ -2,6 +2,8 @@
 
 The My Notepad web application allows users to write and store whatever important notes they need. The application also provides users the opportunity to create events in their scheduler, to do lists for to keep track of long lists, and a calculator in case to make any quick simple calculations.
 
+<br>
+
 ## Notes Page
 
 ![](images/notes-page.png)
